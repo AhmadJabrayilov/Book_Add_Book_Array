@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\bin\Debug\netcoreapp3.1\Class_Book_Array.exe
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\bin\Debug\netcoreapp3.1\Class_Book_Array.deps.json
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\bin\Debug\netcoreapp3.1\Class_Book_Array.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\bin\Debug\netcoreapp3.1\Class_Book_Array.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\bin\Debug\netcoreapp3.1\Class_Book_Array.dll
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\bin\Debug\netcoreapp3.1\Class_Book_Array.pdb
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.dll
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.pdb
+C:\Users\User\Desktop\HOMETASKS\Book_Class_Array\Class_Book_Array\Class_Book_Array\obj\Debug\netcoreapp3.1\Class_Book_Array.genruntimeconfig.cache
